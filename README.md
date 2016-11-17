@@ -1,4 +1,4 @@
-# Vuejs simple server side rendering
+# Vuejs simple server side rendering, live at https://yudipurwanto.id
 
 ## Usage
 
